@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "player2_01_body1.png",
+	"frame": {"x":0,"y":0,"w":85,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":85},
+	"sourceSize": {"w":85,"h":85}
+},
+{
+	"filename": "player2_02_body2.png",
+	"frame": {"x":85,"y":0,"w":85,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":85},
+	"sourceSize": {"w":85,"h":85}
+},
+{
+	"filename": "player2_03_front_L.png",
+	"frame": {"x":170,"y":0,"w":85,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":85},
+	"sourceSize": {"w":85,"h":85}
+},
+{
+	"filename": "player2_04_front_R.png",
+	"frame": {"x":0,"y":85,"w":85,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":85},
+	"sourceSize": {"w":85,"h":85}
+},
+{
+	"filename": "player2_05_front_leg_R.png",
+	"frame": {"x":85,"y":85,"w":85,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":85},
+	"sourceSize": {"w":85,"h":85}
+},
+{
+	"filename": "player2_06_front_leg_L.png",
+	"frame": {"x":170,"y":85,"w":85,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":85},
+	"sourceSize": {"w":85,"h":85}
+},
+{
+	"filename": "player2_07_back_leg_R.png",
+	"frame": {"x":0,"y":170,"w":85,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":85},
+	"sourceSize": {"w":85,"h":85}
+},
+{
+	"filename": "player2_08_back_leg_L.png",
+	"frame": {"x":85,"y":170,"w":85,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":85},
+	"sourceSize": {"w":85,"h":85}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "player2.png",
+	"format": "RGBA8888",
+	"size": {"w":255,"h":255},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:70c6de45a9597b66955e2478206f13c6:6db56f5ca60e4606b0cf88b2e03321f5:7d53e51653a7098021ab2eae67de53d3$"
+}
+}
